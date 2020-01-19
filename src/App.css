@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+.book-list li:hover {
+  cursor: pointer;
+}
+.book-list li:hover .title{
+  text-decoration: line-through;
+}
+.book-list li:hover .author{
+  text-decoration: line-through;
+}
+.navbar{
+  padding:20px 20px 4px
+}
+.empty{
+  margin:20px;
+  padding: 20px;
+}
+form{
+  padding:20px
+}
+input[type='text']{
+ width:35%;
+ padding:10px 5px;
+ border-radius: 5px;
+ border: none;
+ background: #FFF;
+ margin-right:1%
+}
+input[type='submit']{
+  padding:10px 0;
+  width:25%;
+  border:none;
+  border-radius: 5px;
+  background:#555;
+  color:#FFF;
+  cursor: pointer;
+}
+button{
+  padding:10px ;
+  border:none;
+  background:#555;
+  color:#FFF;
+  cursor: pointer;
+}
+.title{
+  font-size:28px;
+  margin-bottom: 0;
+  margin-top:0;
+  color:#000;
+  font-weight: bold;
+}
+.author{
+  font-size: 16px;
+  color:#555
+}
