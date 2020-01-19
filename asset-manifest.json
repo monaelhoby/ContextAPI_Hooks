@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ContextAPI_Hooks/static/css/main.4c6bc57a.chunk.css",
+    "main.js": "/ContextAPI_Hooks/static/js/main.a4a540ef.chunk.js",
+    "main.js.map": "/ContextAPI_Hooks/static/js/main.a4a540ef.chunk.js.map",
+    "runtime-main.js": "/ContextAPI_Hooks/static/js/runtime-main.69b36950.js",
+    "runtime-main.js.map": "/ContextAPI_Hooks/static/js/runtime-main.69b36950.js.map",
+    "static/js/2.94f2a91d.chunk.js": "/ContextAPI_Hooks/static/js/2.94f2a91d.chunk.js",
+    "static/js/2.94f2a91d.chunk.js.map": "/ContextAPI_Hooks/static/js/2.94f2a91d.chunk.js.map",
+    "index.html": "/ContextAPI_Hooks/index.html",
+    "precache-manifest.b9dac7c1c019a08de08c04415e56b001.js": "/ContextAPI_Hooks/precache-manifest.b9dac7c1c019a08de08c04415e56b001.js",
+    "service-worker.js": "/ContextAPI_Hooks/service-worker.js",
+    "static/css/main.4c6bc57a.chunk.css.map": "/ContextAPI_Hooks/static/css/main.4c6bc57a.chunk.css.map",
+    "static/js/2.94f2a91d.chunk.js.LICENSE": "/ContextAPI_Hooks/static/js/2.94f2a91d.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69b36950.js",
+    "static/js/2.94f2a91d.chunk.js",
+    "static/css/main.4c6bc57a.chunk.css",
+    "static/js/main.a4a540ef.chunk.js"
+  ]
+}
